@@ -4,3 +4,4 @@
 
 # Folders
 .idea/
+*.DS_Store
